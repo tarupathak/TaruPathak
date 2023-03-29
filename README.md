@@ -4,9 +4,9 @@
 
 - 🎓 Pursuing Bachelor's Degree in Electronics and Communication Engineering.
 
-- 🌱 I’m currently learning **Redux(React Framework)**
-
 - 👨‍💻 Frontend Web Developer [ReactJS](ReactJS)
+
+- 🌱 I’m currently learning **Redux(React Framework)**
 
 - 💬 Ask me about **react**
 
