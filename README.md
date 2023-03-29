@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
 
+- 🎓 Pursuing Bachelor's Degree in Electronics and Communication Engineering.
+
 - 🌱 I’m currently learning **Redux(React Framework)**
 
 - 👨‍💻 Frontend Web Developer [ReactJS](ReactJS)
