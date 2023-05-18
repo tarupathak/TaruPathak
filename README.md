@@ -6,7 +6,7 @@
 
 - 👨‍💻 Frontend Web Developer [ReactJS](ReactJS)
 
-- 🌱 I’m currently learning **Redux(React Framework)**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **react**
 
