@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taru Pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
 
 - 🎓 Pursuing Bachelor's Degree in Electronics and Communication Engineering.
 
-- 👨‍💻 Frontend Web Developer [ReactJS](ReactJS)
+- 👨‍💻 Frontend Web Developer [ReactJS](ReactJS) 
 
 - 🌱 I’m currently learning **NodeJS**
 
