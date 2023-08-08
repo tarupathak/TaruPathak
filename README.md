@@ -4,19 +4,17 @@
 
 - 🎓 Pursuing Bachelor's Degree in Electronics and Communication Engineering.
 
-- 👨‍💻 Frontend Web Developer [ReactJS](ReactJS) 
+- 👨‍💻 Frontend Web Developer [ReactJS](ReactJS)
+  
+- 👨‍💻 Backend Developer [NodeJS](NodeJS)
 
-- 🌱 I’m currently learning **NodeJS**
-
-- 💬 Ask me about **react**
+- 💬 Ask me about **react** and **node**
 
 - 📫 How to reach me **pathaktaru2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/taru-pathak-747660247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taru-pathak-747660247" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pathaktaru2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pathaktaru2002" height="30" width="40" /></a>
-<a href="https://instagram.com/taru_pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taru_pathak" height="30" width="40" /></a>
 <a href="https://www.behance.net/tarupathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tarupathak" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/taru_pathak_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pathaktaru2002" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pathaktaru2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pathaktaru2002" height="30" width="40" /></a>
