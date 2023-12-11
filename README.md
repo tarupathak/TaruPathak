@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taru Pathak</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--717268678168057748%2F&psig=AOvVaw38O_7cLxmXhXA65PsldDeZ&ust=1702382529192000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiawKWrh4MDFQAAAAAdAAAAABAa" alt="banner"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
 
