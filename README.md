@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 Frontend Web Developer [ReactJS and NextJS](ReactJS and NextJS)
+- 👨‍💻 Frontend Web Developer [ReactJS](ReactJS) and [NextJS](NextJS)
   
-- 👨‍💻 Backend Developer [NodeJS and ExpressJS](NodeJS and ExpressJS)
+- 👨‍💻 Backend Developer [NodeJS](NodeJS) and [ExpressJS](ExpressJS)
 
 - 💬 Ask me about **react and next**
 
