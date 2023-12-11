@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taru Pathak</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-<img src="[AAAAAdAAAAABAa](https://dribbble.com/shots/7466903-Hello-Dribbble/attachments/307954?mode=media)" alt="banner" height=400 />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
 
