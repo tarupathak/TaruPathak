@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
 
-- 🌱 I’m currently learning **Redux(React Framework)**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarupathak" alt="tarupathak" /></a> </p>
+
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 Frontend Web Developer [ReactJS and NextJS](ReactJS and NextJS)
+  
+- 👨‍💻 Backend Developer [NodeJS and ExpressJS](NodeJS and ExpressJS)
 
 - 💬 Ask me about **react and next**
 
