@@ -27,7 +27,7 @@ class Developer {
     this.name = "Taru Pathak 🚀";
     this.role = "FullStack Developer 🎨";
     this.favoriteLanguage = "JavaScript ✨";
-    this.hobby = "Developing 🚴‍♂️";
+    this.hobby = "Developing 💻";
   }
 
   sayHello() {
