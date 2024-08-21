@@ -87,7 +87,6 @@ me.sayHello();
 </div>
 
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarupathak&show_icons=true&locale=en&theme=dracula" alt="tarupathak" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarupathak&show_icons=true&locale=en" alt="tarupathak" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarupathak&" alt="tarupathak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarupathak&theme=dracula" alt="tarupathak" /></p>
