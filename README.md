@@ -3,12 +3,12 @@
 </h1>
 <div align="center">
   <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-TARU-333d7a?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-TARU-8A2BE2?&style=for-the-badge&logoWidth=50" />
   <img height="40px" src="https://img.shields.io/badge/-PATHAK-faebee?&style=for-the-badge&logoWidth=50" />
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Taru+Pathak+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver;Open%20Source%20Enthusiast;" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Taru+Pathak+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver" alt="Headline" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarupathak&label=Profile%20views&color=0e75b6&style=flat" alt="tarupathak" /> </p>
   <a href="https://www.linkedin.com/in/taru-pathak-747660247/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
