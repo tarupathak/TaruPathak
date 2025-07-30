@@ -51,6 +51,7 @@ me.sayHello();
 </h3>
 
 ![image](https://img.shields.io/badge/JavaScript-007ACC?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/TypeScript-007BCC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
